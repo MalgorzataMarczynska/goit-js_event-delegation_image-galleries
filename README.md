@@ -1,1 +1,1 @@
-# goit-js-hw-07
+# JS homework no.7 GoIT full stack developer course
