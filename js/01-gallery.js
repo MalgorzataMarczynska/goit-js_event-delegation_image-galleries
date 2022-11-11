@@ -30,10 +30,8 @@ gallery.insertAdjacentHTML("afterbegin", galleryMark);
 
 //   container.appendChild(link);
 //   link.appendChild(img);
-//   console.log(img);
+//   gallery.append(container);
 // });
-
-// gallery.append(images);
 
 gallery.addEventListener("click", (event) => {
   event.preventDefault();
